@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sriram-2nxr8nwu7-sriramv1592k4-5872s-projects.vercel.app/sitemap.xml
