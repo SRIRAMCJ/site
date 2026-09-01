@@ -1,8 +1,8 @@
 User-agent: *
 Allow: /
 
-# Make the public portfolio crawlable by search engines and AI retrieval systems.
+# Keep the portfolio discoverable by search engines and AI retrieval systems.
 User-agent: OAI-SearchBot
 Allow: /
 
-Sitemap: https://site-bke4xpv6y-sriramv1592k4-5872s-projects.vercel.app/sitemap.xml
+Sitemap: https://site-eight-gilt-52.vercel.app/sitemap.xml
